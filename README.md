@@ -1,4 +1,4 @@
-![image](https://github.com/T1rth1/Welcome-to-Open-Source/assets/123004308/afcfb8f7-637d-4ec5-8503-1f3e1af8a8b1)# Welcome to Open Source Contributions 🍉
+# Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
