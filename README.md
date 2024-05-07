@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+![image](https://github.com/T1rth1/Welcome-to-Open-Source/assets/123004308/afcfb8f7-637d-4ec5-8503-1f3e1af8a8b1)# Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
@@ -1707,6 +1707,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/124999374?v=4" width="100px;" alt="Shubham Raut"/>
                     <br />
                     <sub><b>Shubham Raut</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/T1rth1">
+                    <img src="https://avatars.githubusercontent.com/u/123004308?s=400&v=4" width="100px;" alt="Tirth Patel"/>
+                    <br />
+                    <sub><b>Tirth Patel</b></sub>
                 </a>
             </td>
         </tr>
